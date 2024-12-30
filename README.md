@@ -3,7 +3,7 @@
 ```
 yarn add vite
 npm install --save-dev vitest
-npm install --save-dev @testing-library/jest-dom @testing-library/react @testing-library/user-event
+npm install --save-dev @testing-library/jest-dom @testing-library/react @testing-library/user-event @testing-library/dom
 ```
 
 Refer to vite.config.ts and sample test.
